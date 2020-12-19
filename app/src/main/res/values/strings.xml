@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VariationsApp</string>
+    <string name="choose_your_variations">Choose your variations!</string>
+    <string name="items_in_grey_are_out_of_stock">Items in grey are out of stock</string>
+</resources>
